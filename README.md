@@ -8,7 +8,7 @@ Ordinal Marketplace Backend is a Node.js project providing RESTful API endpoints
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [MongoDB Schema](#mongodb-schema) 
+- [MongoDB Schema](#mongodb-schema)  
 - [Swagger Documentation](#swagger-documentation)
 - [Contributing](#contributing)
 - [License](#license)
