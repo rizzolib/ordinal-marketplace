@@ -195,7 +195,5 @@ This project is licensed under the MIT License.
 I have provided the project structure and rune token deploy, mint, tranfer code part in the README to keep security and the NDA sign. For further technical support and development inquiries, please contact me here.  
 
 
-
-- **Telegram:** @rizz_cat
-- **Discord:** @rezzecup89
+- **Discord:** @jamesybarra98114
 - **X:** @james980114
