@@ -198,3 +198,4 @@ I have provided the project structure and rune token deploy, mint, tranfer code 
 
 - **Telegram:** @rizz_cat
 - **Discord:** @rezzecup89
+- **X:** @james980114
